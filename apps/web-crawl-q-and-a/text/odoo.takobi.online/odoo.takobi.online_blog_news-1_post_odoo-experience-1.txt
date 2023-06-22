@@ -1,0 +1,270 @@
+
+
+
+
+
+
+
+Odoo Experience | TAKOBI Odoo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Servizi
+
+
+
+
+News
+
+
+
+
+Contattaci
+
+
+ 
+
+
+                    Carrello 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11 novembre 2022
+Odoo Experience
+L’esperienza ERP che modella il tuo business
+
+
+
+
+
+
+
+
+
+Non è un mistero che il nostro TAKOBI si basi su Odoo, software open source che seguiamo fin dal 2008 quando si chiamava ancora OpenERP.
+
+Fin dalla nascita di TAKOBI, questa partnership, ci ha permesso di sviluppare personalizzazioni importanti per i nostri clienti e permettere loro di ottenere il massimo delle prestazioni dal nostro software.
+
+Come ogni anno, Odoo SA ha presentato, nel mese di  ottobre, una nuova versione del software durante la Odoo Experience.
+
+Negli ultimi anni questo appuntamento è diventato un evento in grande stile che, oltre a illustrare tutte le novità tecniche e funzionali di questo fantastico software, ha permesso a migliaia di partner, sviluppatori e appassionati, di incontrarsi in Belgio in una 3 giorni dal vivo.
+
+TAKOBI naturalmente era presente all’evento con tutto il suo team, alcuni in streaming, altri in presenza, e il nostro Simone ci ha raccontato le novità più importanti, le grandi aspettative e il clima che si respirava durante l’evento da cui è tornato carico e motivato.
+
+
+
+La Odoo experience di TAKOBI
+La testimonianza di Simone:
+“Alla Odoo Experience ho seguito parte dei talk che sono stati tenuti, in particolare ho seguito quelli riguardanti l’aspetto tecnico di Odoo, visto che in TAKOBI mi occupo dello sviluppo.
+
+Ho visto alcuni degli aggiornamenti che sono stati introdotti per velocizzare ulteriormente la nuova versione, come l’uso della cache nei template e i miglioramenti in OWL2.
+
+Altrettanto interessanti sono stati diversi talk di partner che hanno sviluppato nuove soluzioni basate su Odoo, implementando la loro applicazione in/con altri Framework (Vue), ma basandosi su Odoo come back-end.
+
+Degno di nota è stato il talk di Stephane Bidoul (CTO di ACSONE) che ha proposto di rendere Odoo un po’ più “tipizzato”, proposta che ha trovato particolare apprezzamento anche tra gli sviluppatori Odoo.
+
+Nell'implementazione attuale di Odoo, infatti, le variabili non hanno una tipologia assegnata (Es: stringa, numero, etc) e questo è possibile perché Python supporta i “tipi dinamici”.La proposta avanzata da Bidoul è di assegnare dei “tipi statici” alle variabili in modo che il codice risulti più facilmente interpretabile dallo sviluppatore e dagli strumenti di sviluppo/IDE.
+
+
+Infine, le serate della Odoo Experience sono sempre memorabili: diversi artisti e la The Rolling Release (ex Odoo band) hanno animato le serate, per portare un’occasione di lavoro in un vero momento di piacevole networking.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oltre la Odoo experience, 2 giorni agli OCA Days
+Simone, sempre in cerca di soluzioni che migliorino la fruibilità di TAKOBI, è stato anche agli OCA DAYS di Liegi.
+
+OCA (odoo community association) è l’associazione che a livello mondiale si occupa di dare regole o coordinare i contributori che quotidianamente analizzano, sviluppano, testano e rilasciano nuove funzionalità su Odoo.
+
+“Agli OCA days ho principalmente lavorato sul OCA bot.
+
+OCA bot è un bot in github che aiuta i maintainer a gestire le PR dalla creazione, ad esempio taggando il responsabile del modulo modificato, alla fase di merge.
+
+Il codice di implementazione di OCA bot , permette di accedere a circa 30 issue aperte, ma solo 6 proposte di modifica (3 le ho aperte io durante l’evento).
+
+A parte l’aspetto tecnico, l’evento mi ha colpito per la sua inclusività.
+
+Personalmente ho partecipato senza conoscere quasi nessuno e ne sono uscito con una graditissima nuova rete contatti tra professionisti che sono stati in grado di accompagnarmi attraverso l’evento e le novità, con un sorriso e tanta competenza.
+
+Rebecca (la segretaria di OCA) mi ha subito accolto a braccia aperte, in seguito ho conosciuto il team di Numigi che mi ha coinvolto e reso partecipe di ogni iniziativa, poi Coopiteasy, Adhoc e tanti altri.
+
+Alcuni professionisti li avevo conosciuti solo virtualmente, tramite Github, ed è stato quindi interessante incontrarli dal vivo e dialogare finalmente faccia a faccia, senza filtri né tecnologia.
+
+Anche i grandi nomi del settore, come ad esempio Stéphane Bidoul, (che mantiene gran parte dell'infrastruttura OCA), sono stati molto disponibili e aperti al confronto.
+
+Ultimi, ma non per importanza, gli sviluppatori di WT-IO-IT, realizzatori del plugin di PyCharm, che ho incontrato durante questo evento e con i quali ci siamo riconosciuti grazie ad un recente scambio di segnalazioni.”
+
+
+
+
+
+OCA Days
+
+
+
+
+
+Partecipare agli eventi di settore è il punto di partenza per
+                    migliorare e crescere
+L’importanza di partecipare a questi eventi è quindi evidente sia per conoscere le novità e le potenzialità a cui stiamo andando incontro, che per dare seguito ad un networking nato sulle piattaforme e che, concretizzato, diventa proficuo e motivante.
+
+Oggi possiamo certamente dire che come TAKOBI abbiamo la possibilità di generare progressive evoluzioni del nostro software e continueremo a farlo, principalmente per poter garantire ai clienti di disporre di aggiornamenti che permettano loro di lavorare al meglio delle possibilità offerte dal mercato. 
+
+
+Ci incontreremo alla prossima Odoo Experience? Noi ci saremo!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I nostri prodotti e servizi
+
+
+Odoo
+
+
+TAKOBI SaaS
+
+
+
+
+Entra in contatto con noi
+
+
+Contattaci
+
+
+
++390287178321
+
+
+
+sales@takobi.it
+
+
+
+
+
+TAKOBI s.r.l.Siamo una start up innovativa nata nel 2018 con l'obiettivo di portare innovazione nella piccole e medie imprese italiane. 
+
+
+
+
+
+
+
+
+Copyright © TAKOBI s.r.l.
+-  Normativa sulla Privacy
+
+-  Condizioni d'uso
+
+
+
+
+                Fornito da TAKOBI
+
+
+
+
+
+
+
+
+
+
+
